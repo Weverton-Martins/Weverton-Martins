@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Weverton Martins, sou de Divinópolis/MG e recém-formado em Engenharia da Computação pela UEMG. Sou apaixonado por tecnologia e atualmente atuo como Analista de Redes. Ter uma base sólida em infraestrutura me deu uma visão clara de como os sistemas funcionam nos bastidores, e agora estou canalizando essa experiência para uma transição de carreira para a área de Backend e Dados. Meu foco atual é construir soluções robustas, unindo minha vivência operacional com desenvolvimento.
+Me chamo Weverton Martins, sou de Divinópolis/MG e recém-formado em Engenharia da Computação pela UEMG. Sou apaixonado por tecnologia e atualmente atuo como Analista de Redes. Ter uma base sólida em infraestrutura me deu uma visão clara de como os sistemas funcionam nos bastidores, e agora estou canalizando essa experiência para uma transição de carreira para a área de Frontend, Backend ou Fullstack. Meu foco atual é construir soluções robustas, unindo minha vivência operacional com desenvolvimento.
  
 #
 

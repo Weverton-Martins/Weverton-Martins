@@ -90,14 +90,14 @@ Me chamo Weverton Martins, sou de Divinópolis/MG e recém-formado em Engenharia
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-pi-three-17.vercel.app/api?username=Weverton-Martins&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=43200"
+    src="https://github-readme-stats-sigma-tawny-23.vercel.app/api?username=Weverton-Martins&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=43200"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-pi-three-17.vercel.app/api/top-langs/?username=Weverton-Martins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+      src="https://github-readme-stats-sigma-tawny-23.vercel.app/api/top-langs/?username=Weverton-Martins&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 </p>
